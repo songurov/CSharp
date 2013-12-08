@@ -10,6 +10,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test din VS 2013 Git");
+            Console.ReadKey();
         }
     }
 }
